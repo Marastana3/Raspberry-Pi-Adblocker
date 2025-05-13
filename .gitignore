@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv/
+.env
+*.sqlite3
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node.js / React
+node_modules/
+build/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/
+.history/
+
+# Docker
+*.pid
+*.sock
+*.tar
+*.img
+
+# System
+.DS_Store
+Thumbs.db
